@@ -1,0 +1,2 @@
+# x
+.nomedia file
